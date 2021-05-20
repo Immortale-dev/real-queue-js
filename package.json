@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Immortale-dev/real-queue-js/issues"
   },
-  "homepage": "https://github.com/Immortale-dev/real-queue-js#readme"
+  "homepage": "https://github.com/Immortale-dev/real-queue-js#readme",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
 }
