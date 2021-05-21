@@ -1,4 +1,4 @@
-import {Node} from './node';
+import {Node} from './node.js';
 
 /** Class represents basic queue functionality. */
 export class Queue {
